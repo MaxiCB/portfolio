@@ -189,10 +189,14 @@ img, video {
   width: 100%;
   object-fit: contain;
   overflow: hidden;
+  filter: grayscale(100%) !important;
+  -webkit-filter: grayscale(100%) !important;
 }
 img {
   font-style: italic;
   color: var(--text-color-alt);
+  filter: grayscale(100%) !important;
+  -webkit-filter: grayscale(100%) !important;
 }
 
 details {

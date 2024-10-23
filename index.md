@@ -3,7 +3,7 @@ title: AaronCB
 subtitle: A personal portfolio
 author: Aaron Beasley
 author-url: "https://aaroncb.com"
-date: 2024-09-24
+date: 2024-10-23
 lang: en
 toc-title: Contents
 version: v0.1.1
@@ -81,5 +81,3 @@ A list of my current projects.
 </table>
 
 ## Blog Posts
-
-* Coming soon
